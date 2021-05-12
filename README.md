@@ -2,12 +2,12 @@
 
 ## Home Page:
 
-![Home Page](./screenshots/base auth log.JPG)
+![Home Page](screenshots/base auth log.JPG)
 
 ## Login
 
-![Login](./screenshots/login login.png)
+![Login](screenshots/login login.png)
 
 ## Register
 
-![Register](./screenshots/register base auth.png)
+![Register](screenshots/register base auth.png)
